@@ -8,6 +8,6 @@ go get -u gorm.io/gorm
 
 go get -u gorm.io/driver/sqlite
 
-got get github.com/onsi/gomega/...
+go get github.com/onsi/gomega/...
 
 go get github.com/asaskevich/govalidator
